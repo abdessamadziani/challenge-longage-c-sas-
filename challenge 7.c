@@ -15,8 +15,4 @@ void main()
     printf("le modulo de %d %% %d = %d\n",a,b,a%b);
 
 
-
-
-
-
 }

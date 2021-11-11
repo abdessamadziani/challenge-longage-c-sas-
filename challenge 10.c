@@ -9,6 +9,6 @@ float r,circonference;
 printf("Veullez entrer le Rayon : \n");
 scanf("%f",&r);
 circonference=2*pi*r;
-printf("la circonférence d'un cette cercle est : %.2f",circonference);
+printf("la circonférence d'un cette cercl1e est : %.2f",circonference);
 
 }

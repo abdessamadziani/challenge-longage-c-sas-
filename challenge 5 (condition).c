@@ -18,6 +18,7 @@ void main()
     if(delta<0)
     {
         printf("il n'y a pas de solution.\n");
+
     }
     else if(delta==0)
     {

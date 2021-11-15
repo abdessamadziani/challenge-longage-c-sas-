@@ -15,7 +15,7 @@ void main()
     else if (moyenne<16)
         printf(" mention bien\n");
     else if (moyenne<=20)
-        printf(" tres bien\n");
+        printf(" tres bien2\n");
     else
     {
         printf("vous douvez entrer un nombre entre 0 et 20\n");

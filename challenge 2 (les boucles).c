@@ -21,14 +21,7 @@ void main()
         printf("\n");
     }
 
-  /*
 
-    for(f=2;f<=nb/2;f++)
-    {
-        if(nb%f!=0)
-        printf("%d ",f);
-    }
-      */
 
 
 }

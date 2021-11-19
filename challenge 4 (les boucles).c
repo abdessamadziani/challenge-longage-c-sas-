@@ -21,11 +21,6 @@ void main()
         }
 
 
-
-
-
-
-
     }
     printf("la somme est : %d \n",s);
     printf("le max est %d ",max);
